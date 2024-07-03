@@ -1,0 +1,15 @@
+/home/wissam/projects/bundles/bundles/bin/Debug/net8.0/bundles
+/home/wissam/projects/bundles/bundles/bin/Debug/net8.0/bundles.deps.json
+/home/wissam/projects/bundles/bundles/bin/Debug/net8.0/bundles.runtimeconfig.json
+/home/wissam/projects/bundles/bundles/bin/Debug/net8.0/bundles.dll
+/home/wissam/projects/bundles/bundles/bin/Debug/net8.0/bundles.pdb
+/home/wissam/projects/bundles/bundles/obj/Debug/net8.0/bundles.GeneratedMSBuildEditorConfig.editorconfig
+/home/wissam/projects/bundles/bundles/obj/Debug/net8.0/bundles.AssemblyInfoInputs.cache
+/home/wissam/projects/bundles/bundles/obj/Debug/net8.0/bundles.AssemblyInfo.cs
+/home/wissam/projects/bundles/bundles/obj/Debug/net8.0/bundles.csproj.CoreCompileInputs.cache
+/home/wissam/projects/bundles/bundles/obj/Debug/net8.0/bundles.sourcelink.json
+/home/wissam/projects/bundles/bundles/obj/Debug/net8.0/bundles.dll
+/home/wissam/projects/bundles/bundles/obj/Debug/net8.0/refint/bundles.dll
+/home/wissam/projects/bundles/bundles/obj/Debug/net8.0/bundles.pdb
+/home/wissam/projects/bundles/bundles/obj/Debug/net8.0/bundles.genruntimeconfig.cache
+/home/wissam/projects/bundles/bundles/obj/Debug/net8.0/ref/bundles.dll
